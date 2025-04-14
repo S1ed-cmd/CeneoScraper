@@ -1,6 +1,6 @@
 [
     {
-        "opinion_id": "19175428",
+        "opinion_id": null,
         "author": "r...2",
         "recommend": "Polecam",
         "stars": "5/5",
@@ -18,7 +18,7 @@
         "purshaped": "2024-10-23 21:35:35"
     },
     {
-        "opinion_id": "19524088",
+        "opinion_id": null,
         "author": "o...a",
         "recommend": "Polecam",
         "stars": "5/5",
@@ -38,7 +38,7 @@
         "purshaped": "2024-12-27 17:14:08"
     },
     {
-        "opinion_id": "19220961",
+        "opinion_id": null,
         "author": "Krzysztof",
         "recommend": "Polecam",
         "stars": "5/5",
